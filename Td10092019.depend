@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1568109802 source:c:\users\jonas\semestre 4\td c\td10092019\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1568102347 source:c:\users\jonas\semestre 4\td c\td10092019\exo1.c
+	<stdio.h>
+
+1568102784 source:c:\users\jonas\semestre 4\td c\td10092019\exo3.c
+	<stdio.h>
+
+1568105353 source:c:\users\jonas\semestre 4\td c\td10092019\exo5.c
+	<stdio.h>
+
+1568104587 source:c:\users\jonas\semestre 4\td c\td10092019\exo4.c
+	<stdio.h>
+	<string.h>
+
+1568109012 source:c:\users\jonas\semestre 4\td c\td10092019\exo6.c
+	<stdio.h>
+	<string.h>
+
+1568108789 source:c:\users\jonas\semestre 4\td c\td10092019\exo8.c
+	<stdio.h>
+
+1568109789 source:c:\users\jonas\semestre 4\td c\td10092019\exo7.c
+	<stdio.h>
+
