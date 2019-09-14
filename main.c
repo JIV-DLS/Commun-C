@@ -14,6 +14,6 @@ int main()
 {
     //printf("Hello world!\n");
     //valAbs();
-    exo7();
+    exo6();
     return 0;
 }
