@@ -26,33 +26,35 @@
 1568109789 source:c:\users\jonas\semestre 4\td c\td10092019\exo7.c
 	<stdio.h>
 
-1568469290 source:c:\users\jonas\semestre 4\td c\commun c\main.c
-	<stdio.h>
-	<stdlib.h>
-
-1568102347 source:c:\users\jonas\semestre 4\td c\commun c\exo1.c
+1568549092 source:c:\users\jonas\semestre 4\td c\commun c\main.c
 	<stdio.h>
 
-1568102784 source:c:\users\jonas\semestre 4\td c\commun c\exo3.c
+1568547293 source:c:\users\jonas\semestre 4\td c\commun c\exo1.c
 	<stdio.h>
 
-1568104587 source:c:\users\jonas\semestre 4\td c\commun c\exo4.c
-	<stdio.h>
-	<string.h>
-
-1568105353 source:c:\users\jonas\semestre 4\td c\commun c\exo5.c
+1568547460 source:c:\users\jonas\semestre 4\td c\commun c\exo3.c
 	<stdio.h>
 
-1568109012 source:c:\users\jonas\semestre 4\td c\commun c\exo6.c
+1568548450 source:c:\users\jonas\semestre 4\td c\commun c\exo4.c
 	<stdio.h>
 	<string.h>
 
-1568115418 source:c:\users\jonas\semestre 4\td c\commun c\exo7.c
+1568548889 source:c:\users\jonas\semestre 4\td c\commun c\exo5.c
+	<stdio.h>
+
+1568549024 source:c:\users\jonas\semestre 4\td c\commun c\exo6.c
+	<stdio.h>
+	<string.h>
+
+1568548561 source:c:\users\jonas\semestre 4\td c\commun c\exo7.c
 	<stdio.h>
 
 1568108789 source:c:\users\jonas\semestre 4\td c\commun c\exo8.c
 	<stdio.h>
 
-1568101997 source:c:\users\jonas\semestre 4\td c\commun c\exo2.c
+1568547465 source:c:\users\jonas\semestre 4\td c\commun c\exo2.c
+	<stdio.h>
+
+1568472668 source:c:\users\jonas\semestre 4\td c\commun c\cat-num.c
 	<stdio.h>
 

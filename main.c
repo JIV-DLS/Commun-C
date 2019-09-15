@@ -1,17 +1,16 @@
 #include <stdio.h>
 
-extern int absolu(int x); // Exo 1
-extern void valPos(void);
-extern void max(void);
-extern void catNum(void);
-extern float retFareinheit(float celcius);
-extern void afficheTabDegree(void);
-extern void comptage(void);
-extern void comptage2(void);
-extern void compteEntree(void);
+extern void exo1();
+extern void exo2();
+extern void exo3();
+extern void exo4();
+extern void exo5();
+extern void exo6();
+extern void exo7();
+extern void exo8();
 
 int main()
 {
-    comptage2();
+    exo7();
     return 0;
 }

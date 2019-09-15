@@ -6,9 +6,9 @@ float celsuisToFahrenheit(float Celsuis)
 }
 void exo5()
 {
-    float i=0;
+    float i;
     puts("+-------+-------+");
     for(i=0;i<=20;i+=0.5)
-        printf("| %.1fC | %.1fF |\n",i,rint(celsuisToFahrenheit(i)));
+        printf("| %.1fC %c| %.1fF |\n",i,i<10?'\t':'\a',rint(celsuisToFahrenheit(i)));
     puts("+-------+-------+");
 }
