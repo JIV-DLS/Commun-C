@@ -9,5 +9,5 @@ void exo3()
         scanf("%i",&nb);
         max=max>nb? max:nb;
     }
-        printf("Le maximum des %i nombres saisis est %i. La somme est: %i",i,max,somme);
+        printf("Le maximum des %i nombres saisis est %i. La somme est: %i\n",i,max,somme);
 }
