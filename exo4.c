@@ -11,5 +11,5 @@ void exo4()
         printf(getchar());
         printf("%i. ",i);
        }
-    }while(getchar()=!EOF);
+    }while(getchar()!=EOF);
 }
