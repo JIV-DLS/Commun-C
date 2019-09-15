@@ -31,8 +31,35 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="exo1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exo2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exo3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exo4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exo5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exo6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exo7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exo8.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="termios.h">
+			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Extensions>
 			<code_completion />
