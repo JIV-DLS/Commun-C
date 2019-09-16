@@ -11,5 +11,9 @@ void exo4()
         printf(getchar());
         printf("%i. ",i);
        }
+<<<<<<< HEAD
     }while(getchar()=! EOF);
+=======
+    }while(getchar()!=EOF);
+>>>>>>> 19e4abd41db4c688b8ad7dafc530fea001ff7dba
 }
