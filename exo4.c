@@ -3,17 +3,15 @@
 
 void exo4()
 {
-    int i=0;
+    int i=1;
+    char c="";
+    printf("%i. ",i);
     do{
-       i++;
-       printf(getchar());
-       if(getchar()=='\n'){
-        printf(getchar());
+       c=getchar();
+        if(c=='\n'){
+        i++;
         printf("%i. ",i);
        }
-<<<<<<< HEAD
-    }while(getchar()=! EOF);
-=======
-    }while(getchar()!=EOF);
->>>>>>> 19e4abd41db4c688b8ad7dafc530fea001ff7dba
+        printf("%c",c);
+    }while(c!=EOF);
 }
