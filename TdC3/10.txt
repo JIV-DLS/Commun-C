@@ -1,0 +1,32 @@
+select s.nom,s.pays
+from societe s
+join
+(select m.prop
+from marque
+Except
+select m.pro
+from marque join enr on marque.id=enr.marque
+)
+on s.id=m.prop
+order by s.nom,s.pays
+
+
+
+Select s.nom,s.pays
+FROM societe s JOIN marque m
+ON s.id=m.prop
+
+EXCEPT
+
+Select s.nom,s.pays
+FROM societe s JOIN marque m
+ON s.id=m.prop
+WHERE m.id IN
+(
+select m.id
+FROM marque m
+EXCEPT
+Select m.id 
+FROM marque m JOIN enr e 
+ON m.id=e.marque
+)

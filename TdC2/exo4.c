@@ -2,9 +2,10 @@
 
 int main()
 {
-    int i;
+    //int i;
     char ch[16],c;
     ch[16]='\0';
+    int i;
     for(i=0;;i++)
     {
        c=getchar();
@@ -20,6 +21,7 @@ int main()
 
             printf("|%s\n",ch);
             strcpy(ch," ");
+
             if(c==EOF)break;
         }
     }
